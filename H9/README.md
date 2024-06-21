@@ -1,4 +1,4 @@
-## 參考胡邵家 & 並自己優化(有問GPT優化方式)
+## 使用GPT並理解
 # Result :
 ```
 Episode 1 finished after 221 timesteps, score=221.0
